@@ -1,4 +1,5 @@
 | risk | how it will occur | proposed solution | score |
+
 | funds | Business email compromise | MFA and password rotation | 9 |
 | funds | Compromised user database | automate encryption | 3 |
 | funds | Financial records leak | establish a zero trust plan and establish plans to increase employee outlook. this is a two pronged defense. ensure encryptions are automated | 6 |
